@@ -1,4 +1,4 @@
-Column1,age,current_language,first_language,gender,script,affect,phone_position,file_name,chunk_name,phone_model,Seungdo_label, Second_label,Column2,
+Column1,age,current_language,first_language,gender,script,affect,phone_position,file_name,chunk_name,phone_model,Seungdo_label, Second_label,Actual_Determined_Label,
 1833,25-39,English,Hungarian,Woman,hungry action hippos fruit,neutral,Place phone on the opposite side of the room face up on any surface 12/19,/media/data/shout-data/shout_data_7bdd059c-e54d-442a-8ad9-50268f5fc47a.wav,/final/chunk30.wav,Samsung S8,Surprise,Joy,,FALSE
 529,25-39,English,Hungarian,Woman,birds make new jingles,fear,Place your phone in a bag and hold it next to your hip 7/19,/media/data/shout-data/shout_data_6fd04485-c70a-4b43-8d90-2e9ed9a053c2.wav,/final/chunk31.wav,Samsung S8,Fear,Fear,,TRUE
 2607,25-39,English,English,Woman,wolf ring lights are fantastic,sadness,Place your phone in your pocket 6/19,/media/data/shout-data/shout_data_cc0d48c9-104b-4ded-8756-f16e34d42d51.wav,/final/chunk22.wav,iPhone 13,Sadness,Sadness,,TRUE
