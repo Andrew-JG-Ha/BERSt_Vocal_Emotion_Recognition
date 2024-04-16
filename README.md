@@ -4,7 +4,6 @@ Authors of this project: Andrew Ha, Lachlan Ellis, Justin Baek
 
 ## File Structure
 └── 📁BERSt_Vocal_Emotion_Recognition<br>
-&emsp;    └── .gitignore<br>
 &emsp;    └── 📁models<br>
 &emsp;&emsp;        └── CNN.ipynb<br>
 &emsp;&emsp;        └── combined_model.ipynb<br>
